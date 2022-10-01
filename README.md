@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/Frontend-Mentor-Order-summary-card.png)
 
 ### Links
 
@@ -54,7 +54,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Responsive image tutorial](https://www.freecodecamp.org/news/css-responsive-image-tutorial/)
+- [Responsive image tutorial from freecodecamp.](https://www.freecodecamp.org/news/css-responsive-image-tutorial/)
 
 ## Author
 
